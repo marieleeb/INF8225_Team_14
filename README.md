@@ -9,5 +9,5 @@ Travail réalisé par Marie-Lee Brault, Jean-Nicolas Demanche, Marc-Antoine Huet
 
 Description des fichiers:
 
-1. Notebook
-2. Notebook
+1. CreateDiv2kModifiedDatasets: Créer les jeux de données contenant des images Div2k avec du flou, du bruit et de la compression
+2. CycleGAN: implémnetation des transformations des images d'une domaine à l'autre utilisant la méthode CycleGAN
