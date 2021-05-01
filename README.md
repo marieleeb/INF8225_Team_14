@@ -13,3 +13,6 @@ Description des fichiers:
 2. CreateUrban100ModifiedDatasets: Créer les jeux de données test contenant des images Urban100 avec du flou, du bruit et de la compression
 3. CycleGAN: implémentation des transformations des images d'un domaine à l'autre utilisant la méthode CycleGAN
 4. U-GAT-IT: implémentation des transformations des images d'un domaine à l'autre utilisant la méthode U-GAT-IT
+5. Metrics: implémentation des critères d'évaluation pour la performance des jeux de données modifiés
+6. data: ce dossier contient les images modifiées de chaque tâches avec CycleGAN et U-GAT-IT
+
