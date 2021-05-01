@@ -10,5 +10,6 @@ Travail réalisé par Marie-Lee Brault, Jean-Nicolas Demanche, Marc-Antoine Huet
 Description des fichiers:
 
 1. CreateDiv2kModifiedDatasets: Créer les jeux de données contenant des images Div2k avec du flou, du bruit et de la compression
-2. CycleGAN: implémentation des transformations des images d'un domaine à l'autre utilisant la méthode CycleGAN
-3. U-GAT-IT: implémentation des transformations des images d'un domaine à l'autre utilisant la méthode U-GAT-IT
+2. CreateUrban100ModifiedDatasets: Créer les jeux de données test contenant des images Urban100 avec du flou, du bruit et de la compression
+3. CycleGAN: implémentation des transformations des images d'un domaine à l'autre utilisant la méthode CycleGAN
+4. U-GAT-IT: implémentation des transformations des images d'un domaine à l'autre utilisant la méthode U-GAT-IT
